@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ramatugogu", "ramatugogu.pyproj", "{A87871B6-6128-4371-A892-5FDCC93AEB67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87871B6-6128-4371-A892-5FDCC93AEB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87871B6-6128-4371-A892-5FDCC93AEB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F0F21A-4A3C-4CF1-8F32-F598CA6DA84E}
+	EndGlobalSection
+EndGlobal
